@@ -2,7 +2,7 @@
 
 # 클론코딩 **"항해인사이드"**
 
-### ✨ [FrontEnd](https://github.com/HANGHAE-INSIDE-BE-FE/HANGHAE-INSIDE-BE) : [박수원](https://github.com/kksltv123), [권용준](https://github.com/donamgunner), [고호성](https://github.com/alestorm001)
+### ✨ [FrontEnd](https://github.com/kksltv123/hanghae99Inside) : [박수원](https://github.com/kksltv123), [권용준](https://github.com/donamgunner), [고호성](https://github.com/alestorm001)
 
 ### ✨ [BackEnd](https://github.com/HANGHAE-INSIDE-BE-FE/HANGHAE-INSIDE-BE) : [최준우](https://github.com/gitpher), [강지영](https://github.com/picjoy), [김재영](https://github.com/KORJaeyoungKim)
 
